@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トモダチOneStep",
+  "base_artist": "Antique Seraphim",
+  "createdAt": "2026-02-17T14:20:09.636758Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トモダチOneStep",
+      "artist": "Antique Seraphim",
+      "has_synced": false,
+      "path": "select/pl_01_トモダチOneStep_Antique_Seraphim.txt"
+    }
+  ]
+}
